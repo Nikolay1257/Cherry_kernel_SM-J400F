@@ -1,0 +1,8 @@
+*.gen.S
+*.fw
+*.bin
+*.csp
+*.dsp
+ihex2fw
+!exynos7570_acpm_draminit_s.fw
+!exynos7570_acpm_pedo.fw
